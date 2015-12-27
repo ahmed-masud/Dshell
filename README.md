@@ -20,6 +20,7 @@ Key features:
 * [dpkt](https://code.google.com/p/dpkt/), New BSD License
 * [IPy](https://github.com/haypo/python-ipy), BSD 2-Clause License
 * [pypcap](https://code.google.com/p/pypcap/), New BSD License
+* [elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html), Apache License, Version 2.0 - optional, used only with Dshell's elasticout output module
 
 ## Installation
 
@@ -45,6 +46,12 @@ Key features:
   * Display information about a decoder, including available command-line flags
 * `decode -d <decoder> <pcap>`
   * Run the selected decoder on a pcap file
+
+## Partners
+
+Below are repositories from partners Dshell has worked together with.
+
+* [DeKrych/Dshell-plugins](https://github.com/DeKrych/Dshell-plugins)
 
 ## Usage Examples
 
